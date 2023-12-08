@@ -34,7 +34,6 @@ cout << ans << ": ";
 string z;
 getline(cin,z);
 cout << " Fahsai: 555+ see you" <<day<<". Bye Bye \\(^ ^)/\n";
-
  
 return 0 ;
 }
